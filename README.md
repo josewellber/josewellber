@@ -1,16 +1,15 @@
-## Hi there 👋
+# Prazer, sou o José ! :coffee:
+* :pushpin: [Sobre](https://github.com/josewellber/josewellber/edit/main/README.md)
+* :envelope: [Vamos Conversar!](https://github.com/josewellber#-vamos-conversar)
 
-<!--
-**josewellber/josewellber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## :pushpin: Sobre
+Technical Writer e Data Engineer com foco em desenvolvimento continuo, comunicação e tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Possuo experiência em documentação técnica de softwares e governança de dados, formado em Administração (2021), Análise e Desenvolvimento de Sistemas (2023) e Pós-graduando em Engenharia e Arquitetura de Dados. Atualmente trabalho como Technical Writer Pleno e Data Engineer na Zup Innovation com processos e documentações técnicas de APIs, release notes, troubleshooting, governança e desenvolvimento de arquiteturas de dados, assim como em outros projetos utilizando as linguagens Python, SQL, Javascript e Markdown.
+
+Acredito que a comunicação é essencial para a área de tecnologia, sendo uma habilidade necessária para entender e transmitir conceitos técnicos de forma clara e objetiva.
+
+## :envelope: Vamos conversar! 
+Se quiser bater um papo, pode chamar no inbox do Linkedin :D
+- :link: https://www.linkedin.com/in/josewellber/ 
