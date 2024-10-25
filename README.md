@@ -1,6 +1,6 @@
 # Prazer, sou o José ! :coffee:
-* :pushpin: [Sobre](https://github.com/josewellber/josewellber/edit/main/README.md)
-* :envelope: [Vamos Conversar!](https://github.com/josewellber#-vamos-conversar)
+* :pushpin: [Sobre](https://github.com/josewellber#pushpin-sobre)
+* :envelope: [Vamos conversar!](https://github.com/josewellber/josewellber/edit/main/README.md#envelope-vamos-conversar)
 
 
 ## :pushpin: Sobre
@@ -12,4 +12,4 @@ Acredito que a comunicação é essencial para a área de tecnologia, sendo uma 
 
 ## :envelope: Vamos conversar! 
 Se quiser bater um papo, pode chamar no inbox do Linkedin :D
-- :link: https://www.linkedin.com/in/josewellber/ 
+* :link: https://www.linkedin.com/in/josewellber/ 
