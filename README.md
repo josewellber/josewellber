@@ -1,6 +1,6 @@
 # Prazer, sou o José ! :coffee:
 * :pushpin: [Sobre](https://github.com/josewellber#pushpin-sobre)
-* :envelope: [Vamos conversar!](https://github.com/josewellber/josewellber/edit/main/README.md#envelope-vamos-conversar)
+* :envelope: [Vamos conversar!](https://github.com/josewellber#envelope-vamos-conversar)
 
 
 ## :pushpin: Sobre
